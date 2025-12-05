@@ -28,9 +28,6 @@ A real-time computer vision system that detects motorcycle safety violations inc
 ### Prerequisites
 
 - Python 3.10+
-- NVIDIA GPU with CUDA support (recommended)
-- 4GB+ VRAM for inference
-- 8GB+ RAM
 
 ### Step 1: Clone the Repository
 
